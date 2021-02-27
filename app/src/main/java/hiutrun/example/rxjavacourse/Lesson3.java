@@ -143,8 +143,6 @@ public class Lesson3 extends AppCompatActivity {
                         Log.d(TAG, "onComplete: done");
                     }
                 });
-
-
         // Range() and Repeat()
     }
 }
